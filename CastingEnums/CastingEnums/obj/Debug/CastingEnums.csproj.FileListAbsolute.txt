@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\CastingEnums\CastingEnums\bin\Debug\CastingEnums.exe.config
+D:\prvt\Programming advices\Course No.14\CastingEnums\CastingEnums\bin\Debug\CastingEnums.exe
+D:\prvt\Programming advices\Course No.14\CastingEnums\CastingEnums\bin\Debug\CastingEnums.pdb
+D:\prvt\Programming advices\Course No.14\CastingEnums\CastingEnums\obj\Debug\CastingEnums.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\CastingEnums\CastingEnums\obj\Debug\CastingEnums.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\CastingEnums\CastingEnums\obj\Debug\CastingEnums.exe
+D:\prvt\Programming advices\Course No.14\CastingEnums\CastingEnums\obj\Debug\CastingEnums.pdb

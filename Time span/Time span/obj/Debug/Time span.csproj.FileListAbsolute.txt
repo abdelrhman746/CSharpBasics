@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\Time span\Time span\bin\Debug\Time span.exe.config
+D:\prvt\Programming advices\Course No.14\Time span\Time span\bin\Debug\Time span.exe
+D:\prvt\Programming advices\Course No.14\Time span\Time span\bin\Debug\Time span.pdb
+D:\prvt\Programming advices\Course No.14\Time span\Time span\obj\Debug\Time span.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\Time span\Time span\obj\Debug\Time span.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\Time span\Time span\obj\Debug\Time span.exe
+D:\prvt\Programming advices\Course No.14\Time span\Time span\obj\Debug\Time span.pdb

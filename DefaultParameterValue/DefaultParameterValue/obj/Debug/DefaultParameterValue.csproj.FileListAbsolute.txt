@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\DefaultParameterValue\DefaultParameterValue\bin\Debug\DefaultParameterValue.exe.config
+D:\prvt\Programming advices\Course No.14\DefaultParameterValue\DefaultParameterValue\bin\Debug\DefaultParameterValue.exe
+D:\prvt\Programming advices\Course No.14\DefaultParameterValue\DefaultParameterValue\bin\Debug\DefaultParameterValue.pdb
+D:\prvt\Programming advices\Course No.14\DefaultParameterValue\DefaultParameterValue\obj\Debug\DefaultParameterValue.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\DefaultParameterValue\DefaultParameterValue\obj\Debug\DefaultParameterValue.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\DefaultParameterValue\DefaultParameterValue\obj\Debug\DefaultParameterValue.exe
+D:\prvt\Programming advices\Course No.14\DefaultParameterValue\DefaultParameterValue\obj\Debug\DefaultParameterValue.pdb

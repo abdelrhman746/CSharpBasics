@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\Syntax\Syntax\bin\Debug\Syntax.exe.config
+D:\prvt\Programming advices\Course No.14\Syntax\Syntax\bin\Debug\Syntax.exe
+D:\prvt\Programming advices\Course No.14\Syntax\Syntax\bin\Debug\Syntax.pdb
+D:\prvt\Programming advices\Course No.14\Syntax\Syntax\obj\Debug\Syntax.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\Syntax\Syntax\obj\Debug\Syntax.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\Syntax\Syntax\obj\Debug\Syntax.exe
+D:\prvt\Programming advices\Course No.14\Syntax\Syntax\obj\Debug\Syntax.pdb

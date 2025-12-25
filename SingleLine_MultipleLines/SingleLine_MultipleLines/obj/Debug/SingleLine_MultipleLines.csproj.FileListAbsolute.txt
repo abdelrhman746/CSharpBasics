@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\SingleLine_MultipleLines\SingleLine_MultipleLines\bin\Debug\SingleLine_MultipleLines.exe.config
+D:\prvt\Programming advices\Course No.14\SingleLine_MultipleLines\SingleLine_MultipleLines\bin\Debug\SingleLine_MultipleLines.exe
+D:\prvt\Programming advices\Course No.14\SingleLine_MultipleLines\SingleLine_MultipleLines\bin\Debug\SingleLine_MultipleLines.pdb
+D:\prvt\Programming advices\Course No.14\SingleLine_MultipleLines\SingleLine_MultipleLines\obj\Debug\SingleLine_MultipleLines.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\SingleLine_MultipleLines\SingleLine_MultipleLines\obj\Debug\SingleLine_MultipleLines.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\SingleLine_MultipleLines\SingleLine_MultipleLines\obj\Debug\SingleLine_MultipleLines.exe
+D:\prvt\Programming advices\Course No.14\SingleLine_MultipleLines\SingleLine_MultipleLines\obj\Debug\SingleLine_MultipleLines.pdb

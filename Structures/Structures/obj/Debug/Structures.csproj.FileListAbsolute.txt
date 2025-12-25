@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\Structures\Structures\bin\Debug\Structures.exe.config
+D:\prvt\Programming advices\Course No.14\Structures\Structures\bin\Debug\Structures.exe
+D:\prvt\Programming advices\Course No.14\Structures\Structures\bin\Debug\Structures.pdb
+D:\prvt\Programming advices\Course No.14\Structures\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\Structures\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\Structures\Structures\obj\Debug\Structures.exe
+D:\prvt\Programming advices\Course No.14\Structures\Structures\obj\Debug\Structures.pdb

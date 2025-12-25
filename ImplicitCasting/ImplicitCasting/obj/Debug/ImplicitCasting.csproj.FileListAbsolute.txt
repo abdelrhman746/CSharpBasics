@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\ImplicitCasting\ImplicitCasting\bin\Debug\ImplicitCasting.exe.config
+D:\prvt\Programming advices\Course No.14\ImplicitCasting\ImplicitCasting\bin\Debug\ImplicitCasting.exe
+D:\prvt\Programming advices\Course No.14\ImplicitCasting\ImplicitCasting\bin\Debug\ImplicitCasting.pdb
+D:\prvt\Programming advices\Course No.14\ImplicitCasting\ImplicitCasting\obj\Debug\ImplicitCasting.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\ImplicitCasting\ImplicitCasting\obj\Debug\ImplicitCasting.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\ImplicitCasting\ImplicitCasting\obj\Debug\ImplicitCasting.exe
+D:\prvt\Programming advices\Course No.14\ImplicitCasting\ImplicitCasting\obj\Debug\ImplicitCasting.pdb

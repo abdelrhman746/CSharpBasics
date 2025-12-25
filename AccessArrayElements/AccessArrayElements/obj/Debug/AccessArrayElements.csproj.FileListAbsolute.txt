@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\AccessArrayElements\AccessArrayElements\bin\Debug\AccessArrayElements.exe.config
+D:\prvt\Programming advices\Course No.14\AccessArrayElements\AccessArrayElements\bin\Debug\AccessArrayElements.exe
+D:\prvt\Programming advices\Course No.14\AccessArrayElements\AccessArrayElements\bin\Debug\AccessArrayElements.pdb
+D:\prvt\Programming advices\Course No.14\AccessArrayElements\AccessArrayElements\obj\Debug\AccessArrayElements.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\AccessArrayElements\AccessArrayElements\obj\Debug\AccessArrayElements.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\AccessArrayElements\AccessArrayElements\obj\Debug\AccessArrayElements.exe
+D:\prvt\Programming advices\Course No.14\AccessArrayElements\AccessArrayElements\obj\Debug\AccessArrayElements.pdb

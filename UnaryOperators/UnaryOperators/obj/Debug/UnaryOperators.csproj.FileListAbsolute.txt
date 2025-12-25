@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\UnaryOperators\UnaryOperators\bin\Debug\UnaryOperators.exe.config
+D:\prvt\Programming advices\Course No.14\UnaryOperators\UnaryOperators\bin\Debug\UnaryOperators.exe
+D:\prvt\Programming advices\Course No.14\UnaryOperators\UnaryOperators\bin\Debug\UnaryOperators.pdb
+D:\prvt\Programming advices\Course No.14\UnaryOperators\UnaryOperators\obj\Debug\UnaryOperators.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\UnaryOperators\UnaryOperators\obj\Debug\UnaryOperators.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\UnaryOperators\UnaryOperators\obj\Debug\UnaryOperators.exe
+D:\prvt\Programming advices\Course No.14\UnaryOperators\UnaryOperators\obj\Debug\UnaryOperators.pdb

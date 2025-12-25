@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\Operators\Operators\bin\Debug\Operators.exe.config
+D:\prvt\Programming advices\Course No.14\Operators\Operators\bin\Debug\Operators.exe
+D:\prvt\Programming advices\Course No.14\Operators\Operators\bin\Debug\Operators.pdb
+D:\prvt\Programming advices\Course No.14\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\Operators\Operators\obj\Debug\Operators.exe
+D:\prvt\Programming advices\Course No.14\Operators\Operators\obj\Debug\Operators.pdb

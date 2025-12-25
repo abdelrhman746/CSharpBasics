@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\SetDateAndTime\SetDateAndTime\bin\Debug\SetDateAndTime.exe.config
+D:\prvt\Programming advices\Course No.14\SetDateAndTime\SetDateAndTime\bin\Debug\SetDateAndTime.exe
+D:\prvt\Programming advices\Course No.14\SetDateAndTime\SetDateAndTime\bin\Debug\SetDateAndTime.pdb
+D:\prvt\Programming advices\Course No.14\SetDateAndTime\SetDateAndTime\obj\Debug\SetDateAndTime.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\SetDateAndTime\SetDateAndTime\obj\Debug\SetDateAndTime.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\SetDateAndTime\SetDateAndTime\obj\Debug\SetDateAndTime.exe
+D:\prvt\Programming advices\Course No.14\SetDateAndTime\SetDateAndTime\obj\Debug\SetDateAndTime.pdb

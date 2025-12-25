@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe.config
+D:\prvt\Programming advices\Course No.14\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe
+D:\prvt\Programming advices\Course No.14\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.pdb
+D:\prvt\Programming advices\Course No.14\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.exe
+D:\prvt\Programming advices\Course No.14\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.pdb

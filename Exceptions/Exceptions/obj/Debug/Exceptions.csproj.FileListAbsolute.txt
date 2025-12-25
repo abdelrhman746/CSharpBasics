@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+D:\prvt\Programming advices\Course No.14\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+D:\prvt\Programming advices\Course No.14\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+D:\prvt\Programming advices\Course No.14\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+D:\prvt\Programming advices\Course No.14\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

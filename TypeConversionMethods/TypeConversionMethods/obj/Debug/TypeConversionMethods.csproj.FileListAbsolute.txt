@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\TypeConversionMethods\TypeConversionMethods\obj\Debug\TypeConversionMethods.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\TypeConversionMethods\TypeConversionMethods\obj\Debug\TypeConversionMethods.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\TypeConversionMethods\TypeConversionMethods\bin\Debug\TypeConversionMethods.exe.config
+D:\prvt\Programming advices\Course No.14\TypeConversionMethods\TypeConversionMethods\bin\Debug\TypeConversionMethods.exe
+D:\prvt\Programming advices\Course No.14\TypeConversionMethods\TypeConversionMethods\bin\Debug\TypeConversionMethods.pdb
+D:\prvt\Programming advices\Course No.14\TypeConversionMethods\TypeConversionMethods\obj\Debug\TypeConversionMethods.exe
+D:\prvt\Programming advices\Course No.14\TypeConversionMethods\TypeConversionMethods\obj\Debug\TypeConversionMethods.pdb

@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\AnonymousType\AnonymousType\bin\Debug\AnonymousType.exe.config
+D:\prvt\Programming advices\Course No.14\AnonymousType\AnonymousType\bin\Debug\AnonymousType.exe
+D:\prvt\Programming advices\Course No.14\AnonymousType\AnonymousType\bin\Debug\AnonymousType.pdb
+D:\prvt\Programming advices\Course No.14\AnonymousType\AnonymousType\obj\Debug\AnonymousType.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\AnonymousType\AnonymousType\obj\Debug\AnonymousType.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\AnonymousType\AnonymousType\obj\Debug\AnonymousType.exe
+D:\prvt\Programming advices\Course No.14\AnonymousType\AnonymousType\obj\Debug\AnonymousType.pdb

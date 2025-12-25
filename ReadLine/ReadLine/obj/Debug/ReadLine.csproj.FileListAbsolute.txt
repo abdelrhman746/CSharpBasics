@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\ReadLine\ReadLine\bin\Debug\ReadLine.exe.config
+D:\prvt\Programming advices\Course No.14\ReadLine\ReadLine\bin\Debug\ReadLine.exe
+D:\prvt\Programming advices\Course No.14\ReadLine\ReadLine\bin\Debug\ReadLine.pdb
+D:\prvt\Programming advices\Course No.14\ReadLine\ReadLine\obj\Debug\ReadLine.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\ReadLine\ReadLine\obj\Debug\ReadLine.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\ReadLine\ReadLine\obj\Debug\ReadLine.exe
+D:\prvt\Programming advices\Course No.14\ReadLine\ReadLine\obj\Debug\ReadLine.pdb

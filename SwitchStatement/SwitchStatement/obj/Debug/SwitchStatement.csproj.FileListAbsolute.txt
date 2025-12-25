@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe.config
+D:\prvt\Programming advices\Course No.14\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe
+D:\prvt\Programming advices\Course No.14\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.pdb
+D:\prvt\Programming advices\Course No.14\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.exe
+D:\prvt\Programming advices\Course No.14\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.pdb

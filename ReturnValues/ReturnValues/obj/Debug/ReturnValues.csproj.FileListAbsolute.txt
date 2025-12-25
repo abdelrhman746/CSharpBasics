@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\ReturnValues\ReturnValues\bin\Debug\ReturnValues.exe.config
+D:\prvt\Programming advices\Course No.14\ReturnValues\ReturnValues\bin\Debug\ReturnValues.exe
+D:\prvt\Programming advices\Course No.14\ReturnValues\ReturnValues\bin\Debug\ReturnValues.pdb
+D:\prvt\Programming advices\Course No.14\ReturnValues\ReturnValues\obj\Debug\ReturnValues.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\ReturnValues\ReturnValues\obj\Debug\ReturnValues.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\ReturnValues\ReturnValues\obj\Debug\ReturnValues.exe
+D:\prvt\Programming advices\Course No.14\ReturnValues\ReturnValues\obj\Debug\ReturnValues.pdb

@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\NamedArguments\NamedArguments\bin\Debug\NamedArguments.exe.config
+D:\prvt\Programming advices\Course No.14\NamedArguments\NamedArguments\bin\Debug\NamedArguments.exe
+D:\prvt\Programming advices\Course No.14\NamedArguments\NamedArguments\bin\Debug\NamedArguments.pdb
+D:\prvt\Programming advices\Course No.14\NamedArguments\NamedArguments\obj\Debug\NamedArguments.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\NamedArguments\NamedArguments\obj\Debug\NamedArguments.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\NamedArguments\NamedArguments\obj\Debug\NamedArguments.exe
+D:\prvt\Programming advices\Course No.14\NamedArguments\NamedArguments\obj\Debug\NamedArguments.pdb

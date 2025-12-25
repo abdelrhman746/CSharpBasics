@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\UserInputAndNumbers\UserInputAndNumbers\bin\Debug\UserInputAndNumbers.exe.config
+D:\prvt\Programming advices\Course No.14\UserInputAndNumbers\UserInputAndNumbers\bin\Debug\UserInputAndNumbers.exe
+D:\prvt\Programming advices\Course No.14\UserInputAndNumbers\UserInputAndNumbers\bin\Debug\UserInputAndNumbers.pdb
+D:\prvt\Programming advices\Course No.14\UserInputAndNumbers\UserInputAndNumbers\obj\Debug\UserInputAndNumbers.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\UserInputAndNumbers\UserInputAndNumbers\obj\Debug\UserInputAndNumbers.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\UserInputAndNumbers\UserInputAndNumbers\obj\Debug\UserInputAndNumbers.exe
+D:\prvt\Programming advices\Course No.14\UserInputAndNumbers\UserInputAndNumbers\obj\Debug\UserInputAndNumbers.pdb

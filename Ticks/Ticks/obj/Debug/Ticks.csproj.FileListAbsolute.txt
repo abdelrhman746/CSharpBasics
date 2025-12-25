@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\Ticks\Ticks\bin\Debug\Ticks.exe.config
+D:\prvt\Programming advices\Course No.14\Ticks\Ticks\bin\Debug\Ticks.exe
+D:\prvt\Programming advices\Course No.14\Ticks\Ticks\bin\Debug\Ticks.pdb
+D:\prvt\Programming advices\Course No.14\Ticks\Ticks\obj\Debug\Ticks.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\Ticks\Ticks\obj\Debug\Ticks.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\Ticks\Ticks\obj\Debug\Ticks.exe
+D:\prvt\Programming advices\Course No.14\Ticks\Ticks\obj\Debug\Ticks.pdb

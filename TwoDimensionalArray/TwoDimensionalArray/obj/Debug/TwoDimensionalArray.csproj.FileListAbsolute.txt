@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe.config
+D:\prvt\Programming advices\Course No.14\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe
+D:\prvt\Programming advices\Course No.14\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.pdb
+D:\prvt\Programming advices\Course No.14\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.exe
+D:\prvt\Programming advices\Course No.14\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.pdb

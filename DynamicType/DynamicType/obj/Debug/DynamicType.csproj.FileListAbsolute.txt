@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\DynamicType\DynamicType\bin\Debug\DynamicType.exe.config
+D:\prvt\Programming advices\Course No.14\DynamicType\DynamicType\bin\Debug\DynamicType.exe
+D:\prvt\Programming advices\Course No.14\DynamicType\DynamicType\bin\Debug\DynamicType.pdb
+D:\prvt\Programming advices\Course No.14\DynamicType\DynamicType\obj\Debug\DynamicType.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\DynamicType\DynamicType\obj\Debug\DynamicType.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\DynamicType\DynamicType\obj\Debug\DynamicType.exe
+D:\prvt\Programming advices\Course No.14\DynamicType\DynamicType\obj\Debug\DynamicType.pdb

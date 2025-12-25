@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.exe.config
+D:\prvt\Programming advices\Course No.14\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.exe
+D:\prvt\Programming advices\Course No.14\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.pdb
+D:\prvt\Programming advices\Course No.14\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.exe
+D:\prvt\Programming advices\Course No.14\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.pdb

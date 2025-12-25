@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\GetCurrentDateTime\GetCurrentDateTime\bin\Debug\GetCurrentDateTime.exe.config
+D:\prvt\Programming advices\Course No.14\GetCurrentDateTime\GetCurrentDateTime\bin\Debug\GetCurrentDateTime.exe
+D:\prvt\Programming advices\Course No.14\GetCurrentDateTime\GetCurrentDateTime\bin\Debug\GetCurrentDateTime.pdb
+D:\prvt\Programming advices\Course No.14\GetCurrentDateTime\GetCurrentDateTime\obj\Debug\GetCurrentDateTime.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\GetCurrentDateTime\GetCurrentDateTime\obj\Debug\GetCurrentDateTime.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\GetCurrentDateTime\GetCurrentDateTime\obj\Debug\GetCurrentDateTime.exe
+D:\prvt\Programming advices\Course No.14\GetCurrentDateTime\GetCurrentDateTime\obj\Debug\GetCurrentDateTime.pdb

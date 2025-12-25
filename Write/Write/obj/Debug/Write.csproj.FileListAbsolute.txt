@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\Write\Write\bin\Debug\Write.exe.config
+D:\prvt\Programming advices\Course No.14\Write\Write\bin\Debug\Write.exe
+D:\prvt\Programming advices\Course No.14\Write\Write\bin\Debug\Write.pdb
+D:\prvt\Programming advices\Course No.14\Write\Write\obj\Debug\Write.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\Write\Write\obj\Debug\Write.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\Write\Write\obj\Debug\Write.exe
+D:\prvt\Programming advices\Course No.14\Write\Write\obj\Debug\Write.pdb

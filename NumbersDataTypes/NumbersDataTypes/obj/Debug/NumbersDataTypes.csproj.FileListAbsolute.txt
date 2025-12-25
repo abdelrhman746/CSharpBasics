@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\NumbersDataTypes\NumbersDataTypes\bin\Debug\NumbersDataTypes.exe.config
+D:\prvt\Programming advices\Course No.14\NumbersDataTypes\NumbersDataTypes\bin\Debug\NumbersDataTypes.exe
+D:\prvt\Programming advices\Course No.14\NumbersDataTypes\NumbersDataTypes\bin\Debug\NumbersDataTypes.pdb
+D:\prvt\Programming advices\Course No.14\NumbersDataTypes\NumbersDataTypes\obj\Debug\NumbersDataTypes.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\NumbersDataTypes\NumbersDataTypes\obj\Debug\NumbersDataTypes.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\NumbersDataTypes\NumbersDataTypes\obj\Debug\NumbersDataTypes.exe
+D:\prvt\Programming advices\Course No.14\NumbersDataTypes\NumbersDataTypes\obj\Debug\NumbersDataTypes.pdb

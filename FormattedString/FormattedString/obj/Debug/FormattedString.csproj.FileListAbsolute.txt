@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\FormattedString\FormattedString\bin\Debug\FormattedString.exe.config
+D:\prvt\Programming advices\Course No.14\FormattedString\FormattedString\bin\Debug\FormattedString.exe
+D:\prvt\Programming advices\Course No.14\FormattedString\FormattedString\bin\Debug\FormattedString.pdb
+D:\prvt\Programming advices\Course No.14\FormattedString\FormattedString\obj\Debug\FormattedString.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\FormattedString\FormattedString\obj\Debug\FormattedString.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\FormattedString\FormattedString\obj\Debug\FormattedString.exe
+D:\prvt\Programming advices\Course No.14\FormattedString\FormattedString\obj\Debug\FormattedString.pdb

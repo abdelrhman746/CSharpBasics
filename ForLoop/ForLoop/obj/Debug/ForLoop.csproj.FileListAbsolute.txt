@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\ForLoop\ForLoop\bin\Debug\ForLoop.exe.config
+D:\prvt\Programming advices\Course No.14\ForLoop\ForLoop\bin\Debug\ForLoop.exe
+D:\prvt\Programming advices\Course No.14\ForLoop\ForLoop\bin\Debug\ForLoop.pdb
+D:\prvt\Programming advices\Course No.14\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\ForLoop\ForLoop\obj\Debug\ForLoop.exe
+D:\prvt\Programming advices\Course No.14\ForLoop\ForLoop\obj\Debug\ForLoop.pdb

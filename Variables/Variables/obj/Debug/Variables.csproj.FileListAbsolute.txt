@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\Variables\Variables\bin\Debug\Variables.exe.config
+D:\prvt\Programming advices\Course No.14\Variables\Variables\bin\Debug\Variables.exe
+D:\prvt\Programming advices\Course No.14\Variables\Variables\bin\Debug\Variables.pdb
+D:\prvt\Programming advices\Course No.14\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\Variables\Variables\obj\Debug\Variables.exe
+D:\prvt\Programming advices\Course No.14\Variables\Variables\obj\Debug\Variables.pdb

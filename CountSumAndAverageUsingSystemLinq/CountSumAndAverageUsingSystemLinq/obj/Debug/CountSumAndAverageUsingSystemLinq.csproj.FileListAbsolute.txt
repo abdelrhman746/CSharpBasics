@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\CountSumAndAverageUsingSystemLinq\CountSumAndAverageUsingSystemLinq\bin\Debug\CountSumAndAverageUsingSystemLinq.exe.config
+D:\prvt\Programming advices\Course No.14\CountSumAndAverageUsingSystemLinq\CountSumAndAverageUsingSystemLinq\bin\Debug\CountSumAndAverageUsingSystemLinq.exe
+D:\prvt\Programming advices\Course No.14\CountSumAndAverageUsingSystemLinq\CountSumAndAverageUsingSystemLinq\bin\Debug\CountSumAndAverageUsingSystemLinq.pdb
+D:\prvt\Programming advices\Course No.14\CountSumAndAverageUsingSystemLinq\CountSumAndAverageUsingSystemLinq\obj\Debug\CountSumAndAverageUsingSystemLinq.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\CountSumAndAverageUsingSystemLinq\CountSumAndAverageUsingSystemLinq\obj\Debug\CountSumAndAverageUsingSystemLinq.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\CountSumAndAverageUsingSystemLinq\CountSumAndAverageUsingSystemLinq\obj\Debug\CountSumAndAverageUsingSystemLinq.exe
+D:\prvt\Programming advices\Course No.14\CountSumAndAverageUsingSystemLinq\CountSumAndAverageUsingSystemLinq\obj\Debug\CountSumAndAverageUsingSystemLinq.pdb

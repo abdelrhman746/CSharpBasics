@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\prvt\Programming advices\Course No.14\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\prvt\Programming advices\Course No.14\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\prvt\Programming advices\Course No.14\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\prvt\Programming advices\Course No.14\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\Math\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\Math\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\Math\Math\bin\Debug\Math.exe.config
+D:\prvt\Programming advices\Course No.14\Math\Math\bin\Debug\Math.exe
+D:\prvt\Programming advices\Course No.14\Math\Math\bin\Debug\Math.pdb
+D:\prvt\Programming advices\Course No.14\Math\Math\obj\Debug\Math.exe
+D:\prvt\Programming advices\Course No.14\Math\Math\obj\Debug\Math.pdb

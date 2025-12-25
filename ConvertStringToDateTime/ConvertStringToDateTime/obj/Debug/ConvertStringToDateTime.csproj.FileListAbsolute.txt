@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\ConvertStringToDateTime\ConvertStringToDateTime\bin\Debug\ConvertStringToDateTime.exe.config
+D:\prvt\Programming advices\Course No.14\ConvertStringToDateTime\ConvertStringToDateTime\bin\Debug\ConvertStringToDateTime.exe
+D:\prvt\Programming advices\Course No.14\ConvertStringToDateTime\ConvertStringToDateTime\bin\Debug\ConvertStringToDateTime.pdb
+D:\prvt\Programming advices\Course No.14\ConvertStringToDateTime\ConvertStringToDateTime\obj\Debug\ConvertStringToDateTime.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\ConvertStringToDateTime\ConvertStringToDateTime\obj\Debug\ConvertStringToDateTime.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\ConvertStringToDateTime\ConvertStringToDateTime\obj\Debug\ConvertStringToDateTime.exe
+D:\prvt\Programming advices\Course No.14\ConvertStringToDateTime\ConvertStringToDateTime\obj\Debug\ConvertStringToDateTime.pdb

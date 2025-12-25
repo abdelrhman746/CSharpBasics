@@ -1,0 +1,7 @@
+D:\prvt\Programming advices\Course No.14\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+D:\prvt\Programming advices\Course No.14\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe
+D:\prvt\Programming advices\Course No.14\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.pdb
+D:\prvt\Programming advices\Course No.14\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.AssemblyReference.cache
+D:\prvt\Programming advices\Course No.14\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
+D:\prvt\Programming advices\Course No.14\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.exe
+D:\prvt\Programming advices\Course No.14\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.pdb
